@@ -1,0 +1,99 @@
+{"frames": [
+	{
+		"filename": "btn_friends_ranking",
+		"frame": {"x":0,"y":0,"w":251,"h":64},
+		"rotated": false,
+		"trimmed": false,
+		"spriteSourceSize": {"x":0,"y":0,"w":251,"h":64},
+		"sourceSize": {"w":251,"h":64}
+	},
+	{
+		"filename": "btn_all_ranking",
+		"frame": {"x":251,"y":0,"w":253,"h":64},
+		"rotated": false,
+		"trimmed": false,
+		"spriteSourceSize": {"x":0,"y":0,"w":253,"h":64},
+		"sourceSize": {"w":253,"h":64}
+	},
+	{
+		"filename": "frame_list_view_ranking",
+		"frame": {"x":0,"y":64,"w":504,"h":418},
+		"rotated": false,
+		"trimmed": false,
+		"spriteSourceSize": {"x":0,"y":0,"w":504,"h":418},
+		"sourceSize": {"w":504,"h":418}
+	},
+	{
+		"filename": "frame_view_profile",
+		"frame": {"x":0,"y":482,"w":504,"h":330},
+		"rotated": false,
+		"trimmed": false,
+		"spriteSourceSize": {"x":0,"y":0,"w":504,"h":330},
+		"sourceSize": {"w":504,"h":330}
+    },
+    {
+		"filename": "frame_list_ranking",
+		"frame": {"x":504,"y":0,"w":472,"h":102},
+		"rotated": false,
+		"trimmed": false,
+		"spriteSourceSize": {"x":0,"y":0,"w":472,"h":102},
+		"sourceSize": {"w":472,"h":102}
+	},
+    {
+		"filename": "rank_gold",
+		"frame": {"x":504,"y":102,"w":60,"h":100},
+		"rotated": false,
+		"trimmed": false,
+		"spriteSourceSize": {"x":0,"y":0,"w":60,"h":100},
+		"sourceSize": {"w":60,"h":100}
+	},
+    {
+		"filename": "rank_silver",
+		"frame": {"x":564,"y":102,"w":60,"h":100},
+		"rotated": false,
+		"trimmed": false,
+		"spriteSourceSize": {"x":0,"y":0,"w":60,"h":100},
+		"sourceSize": {"w":60,"h":100}
+	},
+    {
+		"filename": "rank_bronze",
+		"frame": {"x":624,"y":102,"w":60,"h":100},
+		"rotated": false,
+		"trimmed": false,
+		"spriteSourceSize": {"x":0,"y":0,"w":60,"h":100},
+		"sourceSize": {"w":60,"h":100}
+	},
+    {
+		"filename": "rank_normal",
+		"frame": {"x":684,"y":102,"w":60,"h":100},
+		"rotated": false,
+		"trimmed": false,
+		"spriteSourceSize": {"x":0,"y":0,"w":60,"h":100},
+		"sourceSize": {"w":60,"h":100}
+	},
+	{
+		"filename": "frame_loading_find_match",
+		"frame": {"x":504,"y":202,"w":264,"h":84},
+		"rotated": false,
+		"trimmed": false,
+		"spriteSourceSize": {"x":0,"y":0,"w":264,"h":84},
+		"sourceSize": {"w":264,"h":84}
+	},
+	{
+		"filename": "frame_chat",
+		"frame": {"x":504,"y":286,"w":292,"h":290},
+		"rotated": false,
+		"trimmed": false,
+		"spriteSourceSize": {"x":0,"y":0,"w":292,"h":290},
+		"sourceSize": {"w":292,"h":290}
+	}
+],
+	"meta": {
+		"version": "1.0",
+		"image": "asset_3",
+		"format": "RGBA8888",
+		"size": {"w":1000,"h":1000},
+		"scale": "1",
+		"smartupdate": "$TexturePacker:SmartUpdate:26c9296e74577e7cc669970d045b07cd:1afcccdae86b07646bc83c662b4be98f:a759b6bbc8381ac9c472b28f589ad0d6$"
+	}
+}

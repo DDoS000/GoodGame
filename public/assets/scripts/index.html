@@ -1,0 +1,83 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>Bidding War Online</title>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+        <script src="./assets/scripts/bundle.js"></script>
+
+        <!-- font -->
+        <link href="https://fonts.googleapis.com/css?family=Pattaya&display=swap" rel="stylesheet">
+        
+        <!-- css -->
+        <link rel="stylesheet" href="./assets/css/style.css">
+
+        <!-- script socket.io -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.3.0/socket.io.js"  charset="UTF-8"></script>
+        
+        <!-- The core Firebase JS SDK is always required and must be listed first -->
+        <script src="https://www.gstatic.com/firebasejs/7.7.0/firebase-app.js"></script>
+        <script src="https://www.gstatic.com/firebasejs/7.7.0/firebase-auth.js"></script>
+        <script src="https://www.gstatic.com/firebasejs/7.7.0/firebase-firestore.js"></script>
+        <!-- TODO: Add SDKs for Firebase products that you want to use
+        
+            https://firebase.google.com/docs/web/setup#available-libraries -->
+        <script src="https://www.gstatic.com/firebasejs/7.7.0/firebase-analytics.js"></script>
+    </head>
+    <body>
+        <script>
+            // Your web app's Firebase configuration
+            var firebaseConfig = {
+                apiKey: "AIzaSyDVBA_RUI16zSurjxWpff1UwDb4-hcKbQg",
+                authDomain: "bidding-war-online.firebaseapp.com",
+                databaseURL: "https://bidding-war-online.firebaseio.com",
+                projectId: "bidding-war-online",
+                storageBucket: "bidding-war-online.appspot.com",
+                messagingSenderId: "937086445333",
+                appId: "1:937086445333:web:d360436cd3f0f19bf4eb1c",
+                measurementId: "G-TDGF4T2GD0"
+            };
+            // Initialize Firebase
+            firebase.initializeApp(firebaseConfig);
+            firebase.analytics();
+
+            const auth = firebase.auth();
+            const db = firebase.firestore();    
+
+        </script>
+
+        <!-- <fb:login-button
+            id="click"
+            scope="public_profile,email"
+            onlogin="checkLoginState();">
+          </fb:login-button>
+        <script>
+            function checkLoginState() {
+                FB.getLoginStatus(function(response) {
+                    statusChangeCallback(response);
+                });
+            }
+
+            window.fbAsyncInit = function() {
+              FB.init({
+                appId      : '771809673305780',
+                cookie     : true,
+                xfbml      : true,
+                version    : 'v5.0'
+              });
+                
+              FB.AppEvents.logPageView();   
+                
+            };
+          
+            (function(d, s, id){
+               var js, fjs = d.getElementsByTagName(s)[0];
+               if (d.getElementById(id)) {return;}
+               js = d.createElement(s); js.id = id;
+               js.src = "https://connect.facebook.net/en_US/sdk.js";
+               fjs.parentNode.insertBefore(js, fjs);
+             }(document, 'script', 'facebook-jssdk'));
+          </script> -->
+    <script type="text/javascript" src="bundle.js"></script></body>
+</html>

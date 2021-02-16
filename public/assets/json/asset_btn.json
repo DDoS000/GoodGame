@@ -1,0 +1,115 @@
+{"frames": [
+	{
+		"filename": "btn_start_game",
+		"frame": {"x":0,"y":0,"w":204,"h":67},
+		"rotated": false,
+		"trimmed": false,
+		"spriteSourceSize": {"x":0,"y":0,"w":204,"h":67},
+		"sourceSize": {"w":204,"h":67}
+    },
+    {
+		"filename": "btn_friends",
+		"frame": {"x":204,"y":0,"w":126,"h":67},
+		"rotated": false,
+		"trimmed": false,
+		"spriteSourceSize": {"x":0,"y":0,"w":126,"h":67},
+		"sourceSize": {"w":126,"h":67}
+    },
+    {
+		"filename": "btn_friends_request",
+		"frame": {"x":330,"y":0,"w":170,"h":67},
+		"rotated": false,
+		"trimmed": false,
+		"spriteSourceSize": {"x":0,"y":0,"w":170,"h":67},
+		"sourceSize": {"w":170,"h":67}
+    },
+    {
+		"filename": "btn_find",
+		"frame": {"x":500,"y":0,"w":140,"h":67},
+		"rotated": false,
+		"trimmed": false,
+		"spriteSourceSize": {"x":0,"y":0,"w":140,"h":67},
+		"sourceSize": {"w":140,"h":67}
+    },
+    {
+		"filename": "btn_bid",
+		"frame": {"x":640,"y":0,"w":170,"h":67},
+		"rotated": false,
+		"trimmed": false,
+		"spriteSourceSize": {"x":0,"y":0,"w":170,"h":67},
+		"sourceSize": {"w":170,"h":67}
+    },
+    {
+		"filename": "btn_pass",
+		"frame": {"x":810,"y":0,"w":170,"h":67},
+		"rotated": false,
+		"trimmed": false,
+		"spriteSourceSize": {"x":0,"y":0,"w":170,"h":67},
+		"sourceSize": {"w":170,"h":67}
+    },
+    {
+		"filename": "btn_confirm",
+		"frame": {"x":0,"y":67,"w":145,"h":67},
+		"rotated": false,
+		"trimmed": false,
+		"spriteSourceSize": {"x":0,"y":0,"w":145,"h":67},
+		"sourceSize": {"w":145,"h":67}
+    },
+    {
+		"filename": "btn_cancel",
+		"frame": {"x":145,"y":67,"w":145,"h":67},
+		"rotated": false,
+		"trimmed": false,
+		"spriteSourceSize": {"x":0,"y":0,"w":145,"h":67},
+		"sourceSize": {"w":145,"h":67}
+    },
+    {
+		"filename": "btn_back_to_menu",
+		"frame": {"x":290,"y":67,"w":264,"h":68},
+		"rotated": false,
+		"trimmed": false,
+		"spriteSourceSize": {"x":0,"y":0,"w":264,"h":68},
+		"sourceSize": {"w":264,"h":68}
+    },
+    {
+		"filename": "btn_add_friend",
+		"frame": {"x":554,"y":67,"w":133,"h":54},
+		"rotated": false,
+		"trimmed": false,
+		"spriteSourceSize": {"x":0,"y":0,"w":133,"h":54},
+		"sourceSize": {"w":133,"h":54}
+    },
+    {
+		"filename": "btn_invite",
+		"frame": {"x":687,"y":67,"w":104,"h":54},
+		"rotated": false,
+		"trimmed": false,
+		"spriteSourceSize": {"x":0,"y":0,"w":104,"h":54},
+		"sourceSize": {"w":104,"h":54}
+    },
+    {
+		"filename": "btn_accept",
+		"frame": {"x":791,"y":67,"w":104,"h":43},
+		"rotated": false,
+		"trimmed": false,
+		"spriteSourceSize": {"x":0,"y":0,"w":104,"h":43},
+		"sourceSize": {"w":104,"h":43}
+    },
+    {
+		"filename": "btn_reject",
+		"frame": {"x":895,"y":67,"w":104,"h":43},
+		"rotated": false,
+		"trimmed": false,
+		"spriteSourceSize": {"x":0,"y":0,"w":104,"h":43},
+		"sourceSize": {"w":104,"h":43}
+    }
+],
+	"meta": {
+		"version": "1.0",
+		"image": "asset_btn",
+		"format": "RGBA8888",
+		"size": {"w":999,"h":135},
+		"scale": "1",
+		"smartupdate": "$TexturePacker:SmartUpdate:26c9296e74577e7cc669970d045b07cd:1afcccdae86b07646bc83c662b4be98f:a759b6bbc8381ac9c472b28f589ad0d6$"
+	}
+}
